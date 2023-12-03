@@ -1,0 +1,13 @@
+{
+  "category": "Anglais",
+  "qr": [
+    {
+      "question": "hello",
+      "reponse": "bonjour"
+    },
+    {
+      "question": "Weather",
+      "reponse": "Meteo"
+    }
+  ]
+}
