@@ -1,7 +1,7 @@
 {
   "category": "Anglais",
   "qr":{
-    "question": "hello",
-    "reponse": "bonjour"
+    "questionText": "hello",
+    "correctAnswer": "bonjour"
   }
 }
