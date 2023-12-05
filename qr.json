@@ -1,5 +1,11 @@
 {
   "categoryName": "Anglais",
-  "questionText": "hello",
-  "correctAnswer": "bonjour"
+  "questionText": [
+    "hello",
+    "thank you"
+  ],
+  "correctAnswer": [
+    "bonjour",
+    "merci"
+  ]
 }
