@@ -1,0 +1,27 @@
+{
+  "categoryName": "Geographie",
+  "questionText": [
+    "Quel est le plus grand pays d'Amerique du Sud en termes de superficie ?",
+    "Quelle est la capitale du Japon ?",
+    "Quel est le plus grand desert du monde ?",
+    "Quel fleuve est le plus long au monde ?",
+    "Quel est le point le plus eleve de la Terre ?",
+    "Quelle est la mer la plus grande du monde ?",
+    "Quel est le pays le plus peuple du monde ?",
+    "Quel ocean se trouve a l'est des etats-Unis ?",
+    "Quelle est la plus grande île du monde ?",
+    "Dans quel continent se trouve la Russie ?"
+  ],
+  "correctAnswer": [
+    "Le Bresil",
+    "Tokyo",
+    "L'Antarctique",
+    "Le Nil",
+    "Le mont Everest",
+    "La mer de Chine meridionale",
+    "La Chine",
+    "L'ocean Atlantique",
+    "Le Groenland",
+    "L'Europe et l'Asie"
+  ]
+}

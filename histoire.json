@@ -1,17 +1,17 @@
 {
   "categoryName": "Histoire",
   "questionText": [
-    "Quand est-ce que a eu lieu la première guerre mondiale ?",
-    "Qui était le leader de l'Union pendant la guerre civile américaine",
-    "Qui était le leader de l'Union pendant la guerre civile américaine",
-    "Quel empire était dirigé par Napoléon Bonaparte ",
-    "Quel événement a déclenché la Révolution française en 1789",
-    "Quand a eu lieu le Krach bouriser provoquant la Grand Dépression?",
-    "Qui était le dirigeant de l'Union soviétique pendant la majorité de la Seconde Guerre mondiale ?",
-    "Quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
-    "Quel explorateur a mené le premier voyage réussi autour du monde au XVIe siècle ?",
-    "Quel événement a marqué la fin de la guerre froide en 1989 ?",
-    "Qui était la reine d'Égypte célèbre pour sa liaison avec Marc Antoine et Jules César ?"
+    "Quand est-ce que a eu lieu la premiere guerre mondiale ?",
+    "Qui etait le leader de l'Union pendant la guerre civile americaine",
+    "Qui etait le leader de l'Union pendant la guerre civile americaine",
+    "Quel empire etait dirige par Napoleon Bonaparte ",
+    "Quel evenement a declenche la Revolution française en 1789",
+    "Quand a eu lieu le Krach bouriser provoquant la Grand Depression?",
+    "Qui etait le dirigeant de l'Union sovietique pendant la majorite de la Seconde Guerre mondiale ?",
+    "Quel traite a mis fin a la Premiere Guerre mondiale en 1919 ?",
+    "Quel explorateur a mene le premier voyage reussi autour du monde au XVIe siecle ?",
+    "Quel evenement a marque la fin de la guerre froide en 1989 ?",
+    "Qui etait la reine d'egypte celebre pour sa liaison avec Marc Antoine et Jules Cesar ?"
   ],
   "correctAnswer": [
     "1914",
@@ -20,9 +20,9 @@
     "La prise de la Bastille",
     "1929",
     "Joseph Staline",
-    "Le traité de Versailles",
+    "Le traite de Versailles",
     "Ferdinand Magellan",
     "La chute du mur de Berlin",
-    "Cléopâtre"
+    "Cleopâtre"
   ]
 }
