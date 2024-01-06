@@ -1,0 +1,10 @@
+{
+  "categoryName": "Physique",
+  "questionText": [
+    "Quelle est la formule de la loi de gravitation universelle d'Isaac Newton ?",
+    "Quelle est l'unité de mesure de la force dans le système international ?",
+    "Quelle est la formule classique de l'énergie cinétique d'un objet en mouvement ?"
+  ],
+
+  "correctAnswer": ["F = G * (m1 * m2) / r^2.", "Newton", "(1/2) * m * v^2"]
+}
