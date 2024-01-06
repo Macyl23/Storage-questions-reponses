@@ -1,0 +1,27 @@
+{
+  "categoryName": "Maths",
+  "questionText": [
+    "Quelle est la somme de 5 et 8 ?",
+    "Multipliez 9 par 6.",
+    "Quel est le resultat de 15 divise par 3 ?",
+    "Calculez l'aire d'un rectangle de longueur 10 metres et de largeur 4 metres.",
+    "Resolvez l'equation : 2x + 7 = 15.",
+    "Si un cercle a un rayon de 3 unites, quelle est sa circonference ?",
+    "Quelle est la racine carree de 25 ?",
+    "Si un triangle a un angle droit et un côte de 6 unites, quel est le theoreme qui peut être utilise pour trouver la longueur de l'autre côte ?",
+    "Quelle est la valeur de π (pi) ?",
+    "Si un carre a un côte de longueur 7 unites, quelle est son aire ?"
+  ],
+  "correctAnswer": [
+    "13",
+    "54",
+    "5",
+    "40",
+    "4",
+    "2pi × 3",
+    "5",
+    "Le theoreme de Pythagore.",
+    "3.14",
+    "49"
+  ]
+}
